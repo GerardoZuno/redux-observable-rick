@@ -31,7 +31,7 @@ export const Sidebar = ({className}: Props) => {
       <button onClick={() => dispatch(new ToggleSidebar())}
       className="w-full bg-yellow-500 rounded-lg p-2 mb-5 border-2 border-red-700"
       >
-      close
+      ssh 
     </button>
   <h1 className="text-white text-2xl font-bold mb-8"> Sidebar</h1>
   {/* aquí agregarías cualquier otro contenido que desees */}
